@@ -1,0 +1,18 @@
+{
+  "name": "svgcleaner",
+  "version": "0.8.1-1",
+  "description": "SVG optimizer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazrFalcon/svgcleaner.git"
+  },
+  "author": "Evgeniy Reizner",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/RazrFalcon/svgcleaner/issues"
+  },
+  "homepage": "https://github.com/RazrFalcon/svgcleaner#readme",
+  "bin": {
+    "svgcleaner": "./svgcleaner"
+  }
+}
